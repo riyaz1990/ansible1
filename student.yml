@@ -1,6 +1,5 @@
 ---
 - studentdetails: all
- - name: tiy
-   phone: 908787
-   marks: 87
-   
+  - name: tiy
+    phone: 908787
+    marks: 87
